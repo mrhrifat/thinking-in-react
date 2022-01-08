@@ -1,7 +1,12 @@
+import JSX from "./components/JSX";
+
 function App() {
   return (
     <div>
-      <h6>Bismillahir Rahmanir Rahim</h6>
+      {/* Lesson1 */}
+      <JSX />
+
+    
     </div>
   );
 }
